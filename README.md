@@ -1,1 +1,1 @@
-# RKV_ABC_NEWS
+# Django_RKV_ABC_NEWS
